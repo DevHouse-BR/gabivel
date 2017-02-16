@@ -1,0 +1,1149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-31 23:45+0200\n"
+"PO-Revision-Date: 2013-08-06 00:31-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_ex\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:2
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:4
+msgid "Opst, page not found. This page may be removed."
+msgstr ""
+
+#: archive.php:4
+msgid "May be searching will help."
+msgstr "Nenhum registro encontrado."
+
+#: comments.php:5
+msgid " Comments to "
+msgstr ""
+
+#: comments.php:34
+msgid "Prev Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Next Comments"
+msgstr ""
+
+#: footer.php:94
+msgid "Check out this Awesome Site - "
+msgstr "Visite este Site - "
+
+#: footer.php:100
+msgid "Tweets are loading..."
+msgstr ""
+
+#: functions.php:215
+msgid "[Delete]"
+msgstr ""
+
+#: functions.php:233 header.php:16
+msgid "Results for "
+msgstr ""
+
+#: functions.php:239
+msgid "Page "
+msgstr ""
+
+#: functions.php:292
+msgid "Posted by "
+msgstr ""
+
+#: functions.php:367
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:369
+msgid "Edit"
+msgstr ""
+
+#: header.php:18
+msgid "Not found for "
+msgstr ""
+
+#: header.php:24 header.php:30 header.php:37 header.php:53
+msgid "Page request could not be found."
+msgstr ""
+
+#: header.php:28
+msgid "Tag, "
+msgstr ""
+
+#: header.php:35
+msgid "Category, "
+msgstr ""
+
+#: header.php:44
+msgid "Daily Archives, "
+msgstr ""
+
+#: header.php:46
+msgid "Monthly Archives, "
+msgstr ""
+
+#: header.php:48
+msgid "Yearly Archives, "
+msgstr ""
+
+#: header.php:50
+msgid "Blog Archives"
+msgstr ""
+
+#: header.php:56
+msgid "You may find your requested page by searching."
+msgstr ""
+
+#: header.php:235
+msgid "Loading"
+msgstr "Carregando"
+
+#: search.php:4
+msgid ""
+"No results were found for your keywords. Please try again with another "
+"keyword."
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr "Busca"
+
+#: searchform.php:5
+msgid "SEARCH"
+msgstr "BUSCA"
+
+#: includes/admin-structure.php:7
+msgid "THEME CHECK"
+msgstr ""
+
+#: includes/admin-structure.php:15
+msgid "GENERAL SETTINGS"
+msgstr ""
+
+#: includes/admin-structure.php:22
+msgid "Logo Url"
+msgstr ""
+
+#: includes/admin-structure.php:28
+msgid "Cover Image Url"
+msgstr ""
+
+#: includes/admin-structure.php:34
+msgid "Favicon (.ico file)"
+msgstr ""
+
+#: includes/admin-structure.php:40
+msgid "Btn sound url (.mp3 file)"
+msgstr ""
+
+#: includes/admin-structure.php:46
+msgid "Btn sound url (.ogg file)"
+msgstr ""
+
+#: includes/admin-structure.php:52
+msgid "Google Analytics Code"
+msgstr ""
+
+#: includes/admin-structure.php:58
+msgid "Footer Text"
+msgstr ""
+
+#: includes/admin-structure.php:64
+msgid "Default Sidebar Position on Page"
+msgstr ""
+
+#: includes/admin-structure.php:66 includes/admin-structure.php:73
+msgid "None"
+msgstr ""
+
+#: includes/admin-structure.php:66 includes/admin-structure.php:73
+msgid "Left"
+msgstr ""
+
+#: includes/admin-structure.php:66 includes/admin-structure.php:73
+msgid "Right"
+msgstr ""
+
+#: includes/admin-structure.php:71
+msgid "Default Sidebar Position on Post Detail"
+msgstr ""
+
+#: includes/admin-structure.php:78
+msgid "Enable to use a Front Page"
+msgstr ""
+
+#: includes/admin-structure.php:86
+msgid "Twitter Enable on Footer"
+msgstr ""
+
+#: includes/admin-structure.php:94
+msgid "Twitter User Name"
+msgstr ""
+
+#: includes/admin-structure.php:100
+msgid "Tweet Count"
+msgstr ""
+
+#: includes/admin-structure.php:108
+msgid "INTERFACE OPTIONS"
+msgstr ""
+
+#: includes/admin-structure.php:115
+msgid "Gabivel Mode Enable"
+msgstr ""
+
+#: includes/admin-structure.php:123
+msgid "Gabivel Mode Time"
+msgstr ""
+
+#: includes/admin-structure.php:130
+msgid "Menu Always Open"
+msgstr ""
+
+#: includes/admin-structure.php:138
+msgid "Bg Animation Time"
+msgstr ""
+
+#: includes/admin-structure.php:145 includes/admin-structure.php:153
+msgid "Bg Animation Paused"
+msgstr ""
+
+#: includes/admin-structure.php:160
+msgid "Bg Audio Auto Play"
+msgstr ""
+
+#: includes/admin-structure.php:168
+msgid "Bg Audio Loop"
+msgstr ""
+
+#: includes/admin-structure.php:176
+msgid "Bg Normal Fade Animation"
+msgstr ""
+
+#: includes/admin-structure.php:184
+msgid "Bg Video Loop"
+msgstr ""
+
+#: includes/admin-structure.php:192
+msgid "Bg Audio Mute While Play Video"
+msgstr ""
+
+#: includes/admin-structure.php:200
+msgid "Bg Video Muted"
+msgstr ""
+
+#: includes/admin-structure.php:208
+msgid "Bg Items Loop"
+msgstr ""
+
+#: includes/admin-structure.php:216
+msgid "Bg Pattern"
+msgstr ""
+
+#: includes/admin-structure.php:224
+msgid "Bg Video Paused"
+msgstr ""
+
+#: includes/admin-structure.php:232
+msgid "Bg Items Stretch"
+msgstr ""
+
+#: includes/admin-structure.php:242
+msgid "STYLE OPTIONS"
+msgstr ""
+
+#: includes/admin-structure.php:249
+msgid "Theme Style"
+msgstr ""
+
+#: includes/admin-structure.php:252
+msgid "Light"
+msgstr ""
+
+#: includes/admin-structure.php:252
+msgid "Dark"
+msgstr ""
+
+#: includes/admin-structure.php:256
+msgid "First Color"
+msgstr ""
+
+#: includes/admin-structure.php:262
+msgid "First Color Inverse"
+msgstr ""
+
+#: includes/admin-structure.php:268
+msgid "Color Second"
+msgstr ""
+
+#: includes/admin-structure.php:274
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin-structure.php:282
+msgid "TEXT OPTIONS"
+msgstr ""
+
+#: includes/admin-structure.php:289
+msgid "Font Color"
+msgstr ""
+
+#: includes/admin-structure.php:295
+msgid "Header Font"
+msgstr ""
+
+#: includes/admin-structure.php:301 includes/admin-structure.php:307
+msgid "Content Font"
+msgstr ""
+
+#: includes/admin-structure.php:314
+msgid "Menu Header Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:321
+msgid "Menu Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:328
+msgid "H1 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:335
+msgid "H2 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:342
+msgid "H3 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:349
+msgid "H4 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:356
+msgid "H5 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:363
+msgid "H6 Text Size"
+msgstr ""
+
+#: includes/admin-structure.php:372
+msgid "GALLERY MANAGER"
+msgstr ""
+
+#: includes/admin-structure.php:380
+msgid "AUDIO MANAGER"
+msgstr ""
+
+#: includes/admin-structure.php:390
+msgid "HELP"
+msgstr ""
+
+#: includes/blog-sh.php:54
+msgid "READ MORE"
+msgstr ""
+
+#: includes/blog-sh.php:93
+msgid "Posted By"
+msgstr ""
+
+#: includes/blog-sh.php:100
+msgid "Categories"
+msgstr ""
+
+#: includes/blog-sh.php:115
+msgid "No Comment"
+msgstr ""
+
+#: includes/blog-sh.php:117
+msgid "1 Comment"
+msgstr ""
+
+#: includes/blog-sh.php:119 includes/blog-sh.php:120
+msgid "Comments"
+msgstr ""
+
+#: includes/form-sender.php:16
+msgid ""
+"Please check your value for validation because your result of sum is "
+"incorrect."
+msgstr ""
+
+#: includes/form-sender.php:41
+msgid "Have got an error while sending e-mail."
+msgstr ""
+
+#: includes/general-settings-ajax.php:22
+msgid "[Front Page]"
+msgstr ""
+
+#: includes/general-settings-ajax.php:24
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/general-settings-ajax.php:25
+msgid "Set Front Page"
+msgstr ""
+
+#: includes/general-settings-ajax.php:26
+msgid "Remove"
+msgstr ""
+
+#: includes/general-settings-ajax.php:45
+msgid "Directory has not been created;"
+msgstr ""
+
+#: includes/general-settings-ajax.php:57
+msgid "THEME CHECK RESULT"
+msgstr ""
+
+#: includes/general-settings-ajax.php:60
+msgid "STATUS"
+msgstr ""
+
+#: includes/general-settings-ajax.php:66
+msgid "TimThumb PHP Script"
+msgstr ""
+
+#: includes/general-settings-ajax.php:67
+msgid "ThimThumb image resizer script is not working on your server!"
+msgstr ""
+
+#: includes/general-settings-ajax.php:68
+msgid ""
+"This script resizes and crop the images. Without this script, you must edit "
+"your images manually."
+msgstr ""
+
+#: includes/general-settings-ajax.php:71
+msgid "Upload Directory"
+msgstr ""
+
+#: includes/general-settings-ajax.php:71
+msgid ""
+"This directory usually being used by WordPress for all media files. "
+"<strong>Default is wp-content/uploads</strong>. For that reason, you can't "
+"upload any image files without createing and giving its permissions."
+msgstr ""
+
+#: includes/general-settings-ajax.php:74
+msgid "Image Manager Directory"
+msgstr ""
+
+#: includes/general-settings-ajax.php:74
+msgid ""
+"This folder is used by Image Manager in General Theme Settings. In order to "
+"run this function, this folder must be created."
+msgstr ""
+
+#: includes/general-settings-ajax.php:77
+msgid "Gallery Images Directory"
+msgstr ""
+
+#: includes/general-settings-ajax.php:77
+msgid "This folder is used for uploading images in Gallery section."
+msgstr ""
+
+#: includes/general-settings-ajax.php:80
+msgid "TimThumb Cache Directory"
+msgstr ""
+
+#: includes/general-settings-ajax.php:80
+msgid "If ThimThumb will be used, this folder must have needed permission."
+msgstr ""
+
+#: includes/general-settings-ajax.php:83
+msgid "WP-PageNavi Plugin"
+msgstr ""
+
+#: includes/general-settings-ajax.php:83
+msgid "Please Install and Activate WP-PageNavi Plugin."
+msgstr ""
+
+#: includes/general-settings-ajax.php:83
+msgid ""
+"This plugin is used for pagination in Blog and Portfolio sections. You can "
+"find this plugin in downloaded files / plugins folder.(You can watch the "
+"video about plugin installation)"
+msgstr ""
+
+#: includes/general-settings-ajax.php:87
+msgid "file_get_contents Remote Server Access"
+msgstr ""
+
+#: includes/general-settings-ajax.php:88
+msgid ""
+"Your server is blocking \"Remote Server Connection\". Please contact your "
+"host provider to allow \"file_get_contents\" php function."
+msgstr ""
+
+#: includes/general-settings-ajax.php:89
+msgid ""
+"This function gets the thumbnail of the video files, update the fonts and "
+"displaying notice about theme updates."
+msgstr ""
+
+#: includes/general-settings-ajax.php:93
+msgid "PHP SimpleXml Class"
+msgstr ""
+
+#: includes/general-settings-ajax.php:94
+msgid "Your server doesn\\'t have \"SimpleXml Class\" which is a PHP Class."
+msgstr ""
+
+#: includes/general-settings-ajax.php:95
+msgid ""
+"This Class gets the thumbnail of the video files, displaying notice about "
+"theme updates."
+msgstr ""
+
+#: includes/general-settings-ajax.php:98
+msgid "PHP cURL Class"
+msgstr ""
+
+#: includes/general-settings-ajax.php:99
+msgid "Your server doesn't have \"cURL Class\" which is a PHP Class."
+msgstr ""
+
+#: includes/general-settings-ajax.php:100
+msgid "This Class is displaying notice about theme updates."
+msgstr ""
+
+#: includes/general-settings-ajax.php:133
+#, php-format
+msgid ""
+"This directory could not be created automatically. Please create \"%s\" "
+"directory and give %s permission."
+msgstr ""
+
+#: includes/general-settings-ajax.php:141
+#, php-format
+msgid ""
+"This directory permissions could not be changed automatically. Please change "
+"permissions \"%s\" directory as %s."
+msgstr ""
+
+#: includes/general-settings-ajax.php:281
+msgid "[Upload Thumbnail]"
+msgstr ""
+
+#: includes/general-settings-ajax.php:287
+msgid "CAPTION"
+msgstr ""
+
+#: includes/general-settings-ajax.php:290
+msgid "DESCRIPTION"
+msgstr ""
+
+#: includes/general-settings-ajax.php:307
+msgid "Have got an error when deleting file."
+msgstr ""
+
+#: includes/general-settings.php:5
+msgid "RB Admin"
+msgstr ""
+
+#: includes/general-settings.php:115
+msgid "Getting gallery list..."
+msgstr ""
+
+#: includes/general-settings.php:119
+msgid "Gallery list has been gotted successfully"
+msgstr ""
+
+#: includes/general-settings.php:129
+msgid "Getting images list..."
+msgstr ""
+
+#: includes/general-settings.php:133
+msgid "Images list has been gotted successfully"
+msgstr ""
+
+#: includes/general-settings.php:137
+msgid "Theme checking..."
+msgstr ""
+
+#: includes/general-settings.php:160
+msgid "Theme has been checked successfully"
+msgstr ""
+
+#: includes/general-settings.php:197
+msgid "Are you sure set this item as Front Page Gallery?"
+msgstr ""
+
+#: includes/general-settings.php:198
+msgid "Setting gallery as Front Page Gallery..."
+msgstr ""
+
+#: includes/general-settings.php:204
+msgid "Gallery has been setted as front page gallery successfully."
+msgstr ""
+
+#: includes/general-settings.php:206
+msgid "Have got an error while setting gallery as front page gallery."
+msgstr ""
+
+#: includes/general-settings.php:212
+msgid "Are you sure to delete?"
+msgstr ""
+
+#: includes/general-settings.php:213
+msgid "Deleteting gallery..."
+msgstr ""
+
+#: includes/general-settings.php:220
+msgid "Gallery has been deleted successfully"
+msgstr ""
+
+#: includes/general-settings.php:222
+msgid "Have got an error while deleting gallery."
+msgstr ""
+
+#: includes/general-settings.php:241
+msgid "Please enter a name"
+msgstr ""
+
+#: includes/general-settings.php:243
+msgid "Creating a new gallery..."
+msgstr ""
+
+#: includes/general-settings.php:248
+msgid "New gallery has been created successfully"
+msgstr ""
+
+#: includes/general-settings.php:250
+msgid "Have got an error while creation new gallery."
+msgstr ""
+
+#: includes/general-settings.php:298
+msgid "Slider items are saving..."
+msgstr ""
+
+#: includes/general-settings.php:306
+msgid "Slider items has been saved successfuly."
+msgstr ""
+
+#: includes/general-settings.php:340
+msgid "You must fill all field"
+msgstr ""
+
+#: includes/general-settings.php:345
+msgid "Adding your video item..."
+msgstr ""
+
+#: includes/general-settings.php:351
+msgid "New video item has been added successfully."
+msgstr ""
+
+#: includes/general-settings.php:354
+msgid "Have been an error while adding video item."
+msgstr ""
+
+#: includes/general-settings.php:446
+msgid ""
+"Are you sure to apply. If you continue all current settings will be change."
+msgstr ""
+
+#: includes/general-settings.php:471
+msgid "Saving general settings..."
+msgstr ""
+
+#: includes/general-settings.php:476
+msgid "General settings has been updated successfully."
+msgstr ""
+
+#: includes/general-settings.php:479
+msgid "Have got an error while saving settings."
+msgstr ""
+
+#: includes/general-settings.php:487
+msgid "Getting current settings..."
+msgstr ""
+
+#: includes/general-settings.php:490
+msgid "Current settings has been gotten successfully."
+msgstr ""
+
+#: includes/general-settings.php:500
+msgid "Backgrounds are getting..."
+msgstr ""
+
+#: includes/general-settings.php:502
+msgid "Backgrounds has been getted successfully."
+msgstr ""
+
+#: includes/general-settings.php:521 includes/general-settings.php:738
+msgid "Are you sure to delete this image?"
+msgstr ""
+
+#: includes/general-settings.php:523
+msgid "Deleting image..."
+msgstr ""
+
+#: includes/general-settings.php:528
+msgid "Settings has been deleted successfully."
+msgstr ""
+
+#: includes/general-settings.php:531
+msgid "Have got an error while deleting image."
+msgstr ""
+
+#: includes/general-settings.php:552
+msgid "Have got an error while getting font variant"
+msgstr ""
+
+#: includes/general-settings.php:742
+msgid "Image is deleting..."
+msgstr ""
+
+#: includes/general-settings.php:747
+msgid "Image has been deleted successfully."
+msgstr ""
+
+#: includes/general-settings.php:752
+msgid "Image coudn\\'t be deleted"
+msgstr ""
+
+#: includes/general-settings.php:763
+msgid "Please enter a new value"
+msgstr ""
+
+#: includes/general-settings.php:767
+msgid "Dimension of Video is deleting..."
+msgstr ""
+
+#: includes/general-settings.php:772
+msgid "Dimension of Video has been updated successfully."
+msgstr ""
+
+#: includes/general-settings.php:777
+msgid "Dimension of Video coudn\\'t be updated."
+msgstr ""
+
+#: includes/general-settings.php:812
+msgid "Error:"
+msgstr ""
+
+#: includes/general-settings.php:847
+msgid "Getting audio list..."
+msgstr ""
+
+#: includes/general-settings.php:860
+msgid "Audio list has been gotted successfully"
+msgstr ""
+
+#: includes/general-settings.php:1287
+msgid "RENKLIBEYAZ'S THEMES"
+msgstr ""
+
+#: includes/general-settings.php:1289
+msgid "http://themeforest.net/user/renklibeyaz/follow"
+msgstr ""
+
+#: includes/general-settings.php:1289
+msgid "Follow us on<br />Themeforest"
+msgstr ""
+
+#: includes/general-settings.php:1290
+msgid "http://renklibeyaz.com/forum/purchisecode.html"
+msgstr ""
+
+#: includes/general-settings.php:1290
+msgid "Forum<br />Register Code"
+msgstr ""
+
+#: includes/general-settings.php:1291
+msgid "http://renklibeyaz.com/forum/"
+msgstr ""
+
+#: includes/general-settings.php:1291
+msgid "Support<br />Forum"
+msgstr ""
+
+#: includes/general-settings.php:1292
+msgid "http://twitter.com/renklibeyaz"
+msgstr ""
+
+#: includes/general-settings.php:1292
+msgid "Follow us on<br />Twitter"
+msgstr ""
+
+#: includes/general-settings.php:1323
+msgid "Option"
+msgstr ""
+
+#: includes/general-settings.php:1324 includes/general-settings.php:1407
+#: includes/general-settings.php:1420
+msgid "Value"
+msgstr ""
+
+#: includes/general-settings.php:1330 includes/general-settings.php:1458
+msgid "Apply Settings"
+msgstr ""
+
+#: includes/general-settings.php:1363 includes/general-settings.php:1396
+msgid "Get URL"
+msgstr ""
+
+#: includes/general-settings.php:1367
+#, php-format
+msgid "%d Records"
+msgstr ""
+
+#: includes/general-settings.php:1368
+msgid "Download the list"
+msgstr ""
+
+#: includes/general-settings.php:1389
+msgid "Transparent"
+msgstr ""
+
+#: includes/general-settings.php:1390
+msgid "Use Color"
+msgstr ""
+
+#: includes/general-settings.php:1394
+msgid "Url:"
+msgstr ""
+
+#: includes/general-settings.php:1401
+msgid "Horizontal:"
+msgstr ""
+
+#: includes/general-settings.php:1406
+msgid "Center"
+msgstr ""
+
+#: includes/general-settings.php:1414
+msgid "Vertical:"
+msgstr ""
+
+#: includes/general-settings.php:1417
+msgid "Top"
+msgstr ""
+
+#: includes/general-settings.php:1418
+msgid "Bottom"
+msgstr ""
+
+#: includes/general-settings.php:1419
+msgid "Middle"
+msgstr ""
+
+#: includes/general-settings.php:1427
+msgid "Repeat:"
+msgstr ""
+
+#: includes/general-settings.php:1430
+msgid "Repeat"
+msgstr ""
+
+#: includes/general-settings.php:1431
+msgid "Repeat-X"
+msgstr ""
+
+#: includes/general-settings.php:1432
+msgid "Repeat-Y"
+msgstr ""
+
+#: includes/general-settings.php:1433
+msgid "No-Repeat"
+msgstr ""
+
+#: includes/general-settings.php:1439
+msgid "Position:"
+msgstr ""
+
+#: includes/general-settings.php:1442
+msgid "Scroll"
+msgstr ""
+
+#: includes/general-settings.php:1443
+msgid "Fixed"
+msgstr ""
+
+#: includes/general-settings.php:1499
+msgid "GALLERIES"
+msgstr ""
+
+#: includes/general-settings.php:1502 includes/general-settings.php:1582
+msgid "ID"
+msgstr ""
+
+#: includes/general-settings.php:1503
+msgid "NAME"
+msgstr ""
+
+#: includes/general-settings.php:1504
+msgid "ACTIONS"
+msgstr ""
+
+#: includes/general-settings.php:1512
+msgid "Add a New Gallery"
+msgstr ""
+
+#: includes/general-settings.php:1533 includes/general-settings.php:1585
+#: includes/general-settings.php:1674
+msgid "Image"
+msgstr ""
+
+#: includes/general-settings.php:1534
+msgid "Video"
+msgstr ""
+
+#: includes/general-settings.php:1541 includes/general-settings.php:1667
+msgid ""
+"This browser may not support Multi Upload module. Please try another browser "
+"like Firefox etc."
+msgstr ""
+
+#: includes/general-settings.php:1549
+msgid "Self Hosted Video"
+msgstr ""
+
+#: includes/general-settings.php:1550
+msgid "Flash SWF File"
+msgstr ""
+
+#: includes/general-settings.php:1553
+msgid "Video ID"
+msgstr ""
+
+#: includes/general-settings.php:1557 includes/post-options.php:160
+#: includes/post-options.php:301
+msgid "Video URL"
+msgstr ""
+
+#: includes/general-settings.php:1561
+msgid "Iframe Code"
+msgstr ""
+
+#: includes/general-settings.php:1565
+msgid "Width"
+msgstr ""
+
+#: includes/general-settings.php:1567
+msgid "Height"
+msgstr ""
+
+#: includes/general-settings.php:1570
+msgid "Add Video"
+msgstr ""
+
+#: includes/general-settings.php:1579
+msgid "Back to Gallery List"
+msgstr ""
+
+#: includes/general-settings.php:1582
+msgid "Gallery"
+msgstr ""
+
+#: includes/general-settings.php:1586
+msgid "Informations"
+msgstr ""
+
+#: includes/general-settings.php:1592
+msgid "Save Changes"
+msgstr ""
+
+#: includes/general-settings.php:1660
+msgid "Image Manager"
+msgstr ""
+
+#: includes/general-settings.php:1675
+msgid "Actions"
+msgstr ""
+
+#: includes/portfolio-sh.php:76
+msgid "ALL"
+msgstr ""
+
+#: includes/post-options.php:24 includes/post-options.php:68
+msgid "Sidebar Option"
+msgstr ""
+
+#: includes/post-options.php:32 includes/post-options.php:76
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/post-options.php:36 includes/post-options.php:80
+msgid "Default"
+msgstr ""
+
+#: includes/post-options.php:52 includes/post-options.php:394
+msgid "Show in Detail Page"
+msgstr ""
+
+#: includes/post-options.php:58 includes/post-options.php:239
+#: includes/post-options.php:399 includes/post-options.php:452
+msgid "Use Image Resizer Script"
+msgstr ""
+
+#: includes/post-options.php:88
+msgid "Quote for The Post"
+msgstr ""
+
+#: includes/post-options.php:96
+msgid "Quote"
+msgstr ""
+
+#: includes/post-options.php:97
+msgid "This text will be shown as quote"
+msgstr ""
+
+#: includes/post-options.php:103
+msgid "Quote's Owner"
+msgstr ""
+
+#: includes/post-options.php:104
+msgid "This text will be shown as owner of quote"
+msgstr ""
+
+#: includes/post-options.php:114 includes/post-options.php:274
+msgid "Large Size Image URL"
+msgstr ""
+
+#: includes/post-options.php:122 includes/post-options.php:282
+msgid "Lager Image URL"
+msgstr ""
+
+#: includes/post-options.php:123 includes/post-options.php:283
+msgid "(Required) URL of the large image"
+msgstr ""
+
+#: includes/post-options.php:133
+msgid "URL for Link Format"
+msgstr ""
+
+#: includes/post-options.php:141
+msgid "URL"
+msgstr ""
+
+#: includes/post-options.php:142
+msgid "(Required) URL will be open in new window"
+msgstr ""
+
+#: includes/post-options.php:152
+msgid "Video for The Post"
+msgstr ""
+
+#: includes/post-options.php:161 includes/post-options.php:302
+msgid ""
+"(Required) You can enter a url like youtube, vimeo or self hosted video file."
+msgstr ""
+
+#: includes/post-options.php:167 includes/post-options.php:308
+msgid "Video Height"
+msgstr ""
+
+#: includes/post-options.php:168 includes/post-options.php:175
+#: includes/post-options.php:309 includes/post-options.php:316
+msgid "(Required) As an integer"
+msgstr ""
+
+#: includes/post-options.php:174 includes/post-options.php:315
+msgid "Video Width"
+msgstr ""
+
+#: includes/post-options.php:192
+msgid "Audio for The Post"
+msgstr ""
+
+#: includes/post-options.php:200
+msgid "Audio File URL"
+msgstr ""
+
+#: includes/post-options.php:201
+msgid ""
+"(Required) You can enter a url of your file. Supported .aac, .m4a, .f4a, ."
+"ogg, .oga and .mp3"
+msgstr ""
+
+#: includes/post-options.php:211 includes/post-options.php:255
+msgid "Gallery ID"
+msgstr ""
+
+#: includes/post-options.php:219 includes/post-options.php:263
+msgid "Galley [id] Name"
+msgstr ""
+
+#: includes/post-options.php:220 includes/post-options.php:264
+msgid "(Required)"
+msgstr ""
+
+#: includes/post-options.php:231
+msgid "Additional Portfolio Settings"
+msgstr ""
+
+#: includes/post-options.php:245
+msgid "Crop Position"
+msgstr ""
+
+#: includes/post-options.php:293
+msgid "Video for The Portfolio"
+msgstr ""
+
+#: includes/post-options.php:333
+msgid "Portfolio Client and Link"
+msgstr ""
+
+#: includes/post-options.php:341
+msgid "Client"
+msgstr ""
+
+#: includes/post-options.php:342 includes/post-options.php:349
+msgid "(Optional)"
+msgstr ""
+
+#: includes/post-options.php:348
+msgid "Portfolio Link"
+msgstr ""
+
+#: includes/post-options.php:456
+msgid "Select a Crop Position"
+msgstr ""
+
+#: includes/shortcodes.php:184
+msgid "Submit"
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:22
+msgid "Loading..."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:23
+msgid "Please enter your name."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:24
+msgid "Please enter your email address."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:25
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:26
+msgid "Please enter your comment."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:27
+msgid "Your comment has been added."
+msgstr ""
+
+#: plugins/ajax-comment-posting/ajax-comment-posting.php:28
+msgid "ACP error!"
+msgstr ""
