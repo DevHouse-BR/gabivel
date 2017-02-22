@@ -94,7 +94,7 @@ $sidebarPos = $custom_fields['sidebarPos'][0];
 			<div class="detalhes"><?php echo do_shortcode('[button size="small" color="red" url="' . $link . '"]Detalhes[/button]'); ?></div>
 			<hr class="seperator" style="margin:40px 0px" />
 			<div class="clearfix"></div>
-		<?
+		<?php
 		endwhile;
 		if(function_exists('wp_pagenavi'))
 			wp_pagenavi();

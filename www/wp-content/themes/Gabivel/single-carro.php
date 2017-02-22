@@ -20,7 +20,7 @@ $sidebarPos = get_post_meta($postID, "sidebarPos", true);
 if($sidebarPos=='' || $sidebarPos=='Default') $sidebarPos = $sidebarDefault;
 
 ?>
-<? echo '<h1 class="caption"><a style="font-size: inherit; color: #ed3238;" href="'.get_permalink($itemid).'">'.get_the_title().'</a></h1>'; ?>
+<?php echo '<h1 class="caption"><a style="font-size: inherit; color: #ed3238;" href="'.get_permalink($itemid).'">'.get_the_title().'</a></h1>'; ?>
 
 <!-- BEGIN: single -->
 <div class="<?php echo ($sidebarPos!='None')?'content-with-sidebar':'content-full-width'; ?>" <?php 
@@ -119,38 +119,38 @@ if($sidebarPos=='' || $sidebarPos=='Default') $sidebarPos = $sidebarDefault;
 			<h3>Opcionais</h3>
 			<hr />
 			<ul>
-				<li<? if(get_custom_field('air_bag') == "0") echo(' class="naotem"') ?>>Air bag</li>
-				<li<? if(get_custom_field('air_bag_duplo') == "0") echo(' class="naotem"') ?>>Air bag duplo</li> 
-				<li<? if(get_custom_field('alarme') == "0") echo(' class="naotem"') ?>>Alarme</li> 
-				<li<? if(get_custom_field('ar_quente') == "0") echo(' class="naotem"') ?>>Ar quente</li> 
-				<li<? if(get_custom_field('ar_condicionado') == "0") echo(' class="naotem"') ?>>Ar-condicionado</li> 
-				<li<? if(get_custom_field('ar_condicionado_digital') == "0") echo(' class="naotem"') ?>>Ar-condicionado digital</li> 
-				<li<? if(get_custom_field('bancos_em_couro') == "0") echo(' class="naotem"') ?>>Bancos em couro</li> 
-				<li<? if(get_custom_field('cambio_automatico') == "0") echo(' class="naotem"') ?>>Câmbio automático</li> 
-				<li<? if(get_custom_field('cd_player') == "0") echo(' class="naotem"') ?>>CD player</li> 
-				<li<? if(get_custom_field('computador_de_bordo') == "0") echo(' class="naotem"') ?>>Computador de bordo</li> 
-				<li<? if(get_custom_field('desembacador_traseiro') == "0") echo(' class="naotem"') ?>>Desembaçador traseiro</li> 
-				<li<? if(get_custom_field('direcao_hidraulica') == "0") echo(' class="naotem"') ?>>Direção hidráulica</li> 
-				<li<? if(get_custom_field('encosto_cab_traseiro') == "0") echo(' class="naotem"') ?>>Encosto cab. traseiro</li> 
-				<li<? if(get_custom_field('engate_de_carretinha') == "0") echo(' class="naotem"') ?>>Engate de carretinha</li> 
-				<li<? if(get_custom_field('espelhos_eletricos') == "0") echo(' class="naotem"') ?>>Espelhos elétricos</li> 
-				<li<? if(get_custom_field('farol_de_neblina') == "0") echo(' class="naotem"') ?>>Farol de neblina</li> 
-				<li<? if(get_custom_field('freios_abs') == "0") echo(' class="naotem"') ?>>Freios ABS</li> 
-				<li<? if(get_custom_field('limpador_traseiro') == "0") echo(' class="naotem"') ?>>Limpador traseiro</li> 
-				<li<? if(get_custom_field('lona_maritima') == "0") echo(' class="naotem"') ?>>Lona marítima</li> 
-				<li<? if(get_custom_field('mp3_player') == "0") echo(' class="naotem"') ?>>MP3 player</li> 
-				<li<? if(get_custom_field('para_choque_na_cor') == "0") echo(' class="naotem"') ?>>Para-choque na cor</li> 
-				<li<? if(get_custom_field('pelicula_solar') == "0") echo(' class="naotem"') ?>>Película solar</li> 
-				<li<? if(get_custom_field('protetor_de_cacamba') == "0") echo(' class="naotem"') ?>>Protetor de caçamba</li> 
-				<li<? if(get_custom_field('protetor_de_carter') == "0") echo(' class="naotem"') ?>>Protetor de cárter</li> 
-				<li<? if(get_custom_field('rodas_de_liga_leve') == "0") echo(' class="naotem"') ?>>Rodas de liga leve</li> 
-				<li<? if(get_custom_field('sensor_estacionamento') == "0") echo(' class="naotem"') ?>>Sensor estacionamento</li> 
-				<li<? if(get_custom_field('teto_solar') == "0") echo(' class="naotem"') ?>>Teto solar</li> 
-				<li<? if(get_custom_field('tracao_4x4') == "0") echo(' class="naotem"') ?>>Tração 4x4</li> 
-				<li<? if(get_custom_field('travas_eletricas') == "0") echo(' class="naotem"') ?>>Travas elétricas</li> 
-				<li<? if(get_custom_field('vidros_eletricos') == "0") echo(' class="naotem"') ?>>Vidros elétricos</li> 
-				<li<? if(get_custom_field('vidros_verdes') == "0") echo(' class="naotem"') ?>>Vidros verdes</li> 
-				<li<? if(get_custom_field('volante_escamoteavel') == "0") echo(' class="naotem"') ?>>Volante escamoteável</li> 
+				<li<?php if(get_custom_field('air_bag') == "0") echo(' class="naotem"') ?>>Air bag</li>
+				<li<?php if(get_custom_field('air_bag_duplo') == "0") echo(' class="naotem"') ?>>Air bag duplo</li> 
+				<li<?php if(get_custom_field('alarme') == "0") echo(' class="naotem"') ?>>Alarme</li> 
+				<li<?php if(get_custom_field('ar_quente') == "0") echo(' class="naotem"') ?>>Ar quente</li> 
+				<li<?php if(get_custom_field('ar_condicionado') == "0") echo(' class="naotem"') ?>>Ar-condicionado</li> 
+				<li<?php if(get_custom_field('ar_condicionado_digital') == "0") echo(' class="naotem"') ?>>Ar-condicionado digital</li> 
+				<li<?php if(get_custom_field('bancos_em_couro') == "0") echo(' class="naotem"') ?>>Bancos em couro</li> 
+				<li<?php if(get_custom_field('cambio_automatico') == "0") echo(' class="naotem"') ?>>Câmbio automático</li> 
+				<li<?php if(get_custom_field('cd_player') == "0") echo(' class="naotem"') ?>>CD player</li> 
+				<li<?php if(get_custom_field('computador_de_bordo') == "0") echo(' class="naotem"') ?>>Computador de bordo</li> 
+				<li<?php if(get_custom_field('desembacador_traseiro') == "0") echo(' class="naotem"') ?>>Desembaçador traseiro</li> 
+				<li<?php if(get_custom_field('direcao_hidraulica') == "0") echo(' class="naotem"') ?>>Direção hidráulica</li> 
+				<li<?php if(get_custom_field('encosto_cab_traseiro') == "0") echo(' class="naotem"') ?>>Encosto cab. traseiro</li> 
+				<li<?php if(get_custom_field('engate_de_carretinha') == "0") echo(' class="naotem"') ?>>Engate de carretinha</li> 
+				<li<?php if(get_custom_field('espelhos_eletricos') == "0") echo(' class="naotem"') ?>>Espelhos elétricos</li> 
+				<li<?php if(get_custom_field('farol_de_neblina') == "0") echo(' class="naotem"') ?>>Farol de neblina</li> 
+				<li<?php if(get_custom_field('freios_abs') == "0") echo(' class="naotem"') ?>>Freios ABS</li> 
+				<li<?php if(get_custom_field('limpador_traseiro') == "0") echo(' class="naotem"') ?>>Limpador traseiro</li> 
+				<li<?php if(get_custom_field('lona_maritima') == "0") echo(' class="naotem"') ?>>Lona marítima</li> 
+				<li<?php if(get_custom_field('mp3_player') == "0") echo(' class="naotem"') ?>>MP3 player</li> 
+				<li<?php if(get_custom_field('para_choque_na_cor') == "0") echo(' class="naotem"') ?>>Para-choque na cor</li> 
+				<li<?php if(get_custom_field('pelicula_solar') == "0") echo(' class="naotem"') ?>>Película solar</li> 
+				<li<?php if(get_custom_field('protetor_de_cacamba') == "0") echo(' class="naotem"') ?>>Protetor de caçamba</li> 
+				<li<?php if(get_custom_field('protetor_de_carter') == "0") echo(' class="naotem"') ?>>Protetor de cárter</li> 
+				<li<?php if(get_custom_field('rodas_de_liga_leve') == "0") echo(' class="naotem"') ?>>Rodas de liga leve</li> 
+				<li<?php if(get_custom_field('sensor_estacionamento') == "0") echo(' class="naotem"') ?>>Sensor estacionamento</li> 
+				<li<?php if(get_custom_field('teto_solar') == "0") echo(' class="naotem"') ?>>Teto solar</li> 
+				<li<?php if(get_custom_field('tracao_4x4') == "0") echo(' class="naotem"') ?>>Tração 4x4</li> 
+				<li<?php if(get_custom_field('travas_eletricas') == "0") echo(' class="naotem"') ?>>Travas elétricas</li> 
+				<li<?php if(get_custom_field('vidros_eletricos') == "0") echo(' class="naotem"') ?>>Vidros elétricos</li> 
+				<li<?php if(get_custom_field('vidros_verdes') == "0") echo(' class="naotem"') ?>>Vidros verdes</li> 
+				<li<?php if(get_custom_field('volante_escamoteavel') == "0") echo(' class="naotem"') ?>>Volante escamoteável</li> 
 			</ul>
 		</div>
 		<div class="clearfix"></div>

@@ -1,0 +1,226 @@
+/*
+Theme Name: Gabivel Theme
+Theme URI: http://www.gabivel.com.br/
+Description: Gabivel Veiculos
+Author: Gabivel
+Version: 1.1.0
+
+Tags: Default
+
+License:
+License URI:
+
+You can add your custom styles to this css file. Gabivel Theme uses style.php file for dynamic styles.
+
+*/
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+.sticky { background: rgba(255,255,255,0.1);}
+
+
+
+#contentBox .gallery {
+    background-color: #262626;
+    float: left;
+    height: 300px;
+    margin: 0 20px 16px 0;
+    overflow: hidden;
+    padding: 4px;
+    width: 320px;
+}
+#contentBox .gallery br {
+    display: none;
+    visibility: hidden;
+}
+#contentBox dl.gallery-item:first-child {
+    float: none;
+}
+#contentBox dl.gallery-item {
+    width: auto;
+}
+#contentBox dl.gallery-item img {
+    width: 75px;
+    height: 62px;
+    border: 2px solid #666666;
+    margin-right: 4px;
+}
+#contentBox dl.gallery-item:first-child img {
+    width: auto;
+    height: auto;
+}
+h3 {
+    clear: right;
+}
+#detalhes {
+    margin-top: 14px;
+}
+#detalhes table tr td:first-child {
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+#opcionais ul li {
+    float: left;
+    list-style: none;
+    padding: 1px 10px 2px 0;
+}
+#opcionais ul li.naotem {
+    text-decoration: line-through;
+    color: gray;
+}
+.foto{
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 7px 10px;
+    float: left;
+    margin-top: 0;
+}
+.foto > img{
+    border: none;
+}
+.meta-links{
+    border-left: 1px solid white;
+    display: block;
+    float: none;
+    margin-left: 230px;
+    height: 220px;
+}
+.meta-links h3 {
+    clear: right;
+}
+.meta-links hr {
+    background-color: #ed3238;
+    height: 1px;
+    margin-left: 20px;
+}
+.meta-links table{
+    margin: 10px 20px;
+}
+.meta-links table tr td:first-child {
+    font-weight: bold;
+    padding-right: 50px;
+}
+.detalhes {
+    float:right;
+}
+hr.widget_busca_hr{
+    background-color: #ed3238;
+    height: 1px;
+}
+form#buscacarrosform label{
+    font-weight: bold;
+    line-height: 40px;
+}
+form#buscacarrosform select{
+    margin-right:6px;
+}
+#buscacarroswrapper{
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 2px;
+}
+.comment-notes{
+    display: none;
+}
+.txtdestaque{
+    font-size:20px;
+    color: #ED3238;
+    font-family: 'Abel',sans-serif;
+    font-weight: bold;
+}
+.contact-form textarea, .contact-form input{
+    background-color: #757575;
+}
+
+p.contact-submit input {
+    background-color: #ED3238;
+    color: #FFFFFF;
+    display: block;
+    font-family: 'Abel',sans-serif;
+    font-size: 14px;
+    line-height: 14px;
+    margin: 10px 0 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}

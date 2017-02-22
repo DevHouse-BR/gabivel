@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WPtouch Pro shared on 96down.com
+Plugin Name: WPtouch Pro
 Version: 2.8.2
 Description: WPtouch Pro helps you build a rich mobile theme for your site tailored for <a href="http://www.apple.com/iphone/">Apple iPhone</a> &amp; <a href="http://www.apple.com/ipodtouch/">iPod touch</a> <a href="http://www.apple.com/ipad/">iPad</a>, <a href="http://www.android.com/">Google Android</a>, <a href="http://www.blackberry.com/">Blackberry OS6+</a> and other touch mobile devices.
 Author: Dale Mugford & Duane Storey (BraveNewCode)
